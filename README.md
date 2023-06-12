@@ -1,5 +1,5 @@
-# Page Title
+# The first title
 
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 
-# Sub title
+## Sub title

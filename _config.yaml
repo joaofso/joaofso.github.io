@@ -4,5 +4,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+
+title: João Felipe Ouriques
+description: Very simple personal page using github pages
 include:
   - README.md
