@@ -1,5 +1,4 @@
-# The first title
 
 Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
 
-## Sub title
+# Title level 1
